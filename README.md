@@ -16,6 +16,9 @@ MoviesX is a modern React-based web application designed for movie enthusiasts. 
 - **Custom Select Components**: Customizable select input components with react-select.
 - **Styling**: Use of Sass for styling.
 
+## Website Link
+- **https://moviesx-ashen.vercel.app/
+
 ## Installation
 git clone <repository-url>
 cd moviesx
