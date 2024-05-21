@@ -17,7 +17,7 @@ MoviesX is a modern React-based web application designed for movie enthusiasts. 
 - **Styling**: Use of Sass for styling.
 
 ## Website Link
-- **https://moviesx-ashen.vercel.app/
+- https://moviesx-ashen.vercel.app/
 
 ## Installation
 git clone <repository-url>
